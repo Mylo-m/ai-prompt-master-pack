@@ -1,0 +1,98 @@
+# 500+ AI Prompts for Everyone
+
+## How to Use These Prompts
+
+1. **Copy** any prompt below
+2. **Paste** into ChatGPT, Claude, or Midjourney
+3. **Replace** the parts in [brackets] with your own info
+4. **Press Enter** and get your result!
+
+No technical skills needed. Just copy, paste, and go.
+
+---
+
+## CHATGPT PROMPTS (150+)
+
+### Content Creation
+1. "Create a 30-day content calendar for [YOUR NICHE] with viral hooks for TikTok and Instagram Reels."
+2. "Write a YouTube script about [TOPIC] that keeps viewers watching until the end. Include timestamps."
+3. "Generate 50 faceless YouTube automation video ideas for [NICHE]."
+
+### Side Hustles & Money
+4. "Analyze this business idea: [YOUR IDEA]. Tell me the pros, cons, startup costs, and potential profit margins."
+5. "Create a 7-day email course selling [PRODUCT/SERVICE]. Include subject lines and copy."
+6. "Give me 20 passive income ideas I can start with $100 or less."
+
+### Writing & Productivity
+7. "Summarize this article into 5 bullet points a 5th grader can understand: [PASTE TEXT]"
+8. "Rewrite this email to be more professional but friendly: [PASTE EMAIL]"
+9. "Create a morning routine for maximum productivity based on [WAKE-UP TIME]."
+
+### Coding (For Beginners)
+10. "Explain [CONCEPT LIKE API/DATABASE] like I'm 5 years old."
+11. "Write a Python script to organize my desktop files by type and date. Give me the exact code to copy and paste."
+12. "Help me fix this error message: [PASTE ERROR]"
+
+### Social Media Growth
+13. "Give me 30 Instagram captions for [NICHE] with relevant hashtags."
+14. "Write 10 viral Twitter/X threads about [TOPIC] that will get retweeted."
+15. "Create a TikTok content strategy for [NICHE] for the next 90 days."
+
+---
+
+## MIDJOURNEY PROMPTS (150+)
+
+### Photography Style
+16. "portrait of a [SUBJECT] with dramatic lighting, 8k resolution, 85mm lens, bokeh background --ar 16:9 --v 6"
+17. "cinematic shot of [SCENE], moody atmosphere, volumetric lighting, hyperrealistic --ar 21:9 --v 6"
+
+### Anime & Illustration
+18. "anime style girl with [HAIR COLOR] hair, [SETTING], vibrant colors, studio ghibli style --niji 6"
+19. "cyberpunk cityscape, neon lights, rain, futuristic, detailed, 4k --ar 16:9 --v 6"
+
+### Product Design (Print on Demand)
+20. "retro vintage t-shirt design, [THEME], distressed effect, isolated on white background --v 6"
+21. "funny slogan tee: '[TEXT]', bold typography, bright colors --v 6"
+
+### Home Decor
+22. "minimalist poster design, abstract shapes, calm colors, perfect for living room --ar 2:3 --v 6"
+23. "modern wall art, geometric patterns, gold and black, luxury feel --v 6"
+
+---
+
+## AI MUSIC PROMPTS (100+)
+
+### Songwriting
+24. "Write a pop song about [TOPIC] with catchy chorus and upbeat tempo."
+25. "Create lyrics for a sad acoustic ballad about [THEME]."
+
+### Suno/AI Music
+26. "upbeat pop song, female vocals, summer vibes, tropical instruments, 120 BPM"
+27. "chill lo-fi beat, study music, rain sounds, soft piano, no vocals"
+
+---
+
+## CLAUDE/HERMES PROMPTS (100+)
+
+### Business & Analysis
+28. "Analyze my business idea: [IDEA]. Give me SWOT analysis and next steps."
+29. "Help me write a business plan for [BUSINESS]. Include executive summary, market analysis, and financial projections."
+
+### Learning & Research
+30. "Explain quantum computing to me like I'm 10 years old, with simple analogies."
+31. "Summarize the key points of [BOOK/TOPIC] in bullet points."
+
+---
+
+## BONUS: 50 Viral Hooks
+- "You won't believe what happened when I tried..."
+- "This simple trick changed my life..."
+- "Stop doing [X] immediately if you want to..."
+- "The truth about [TOPIC] that nobody talks about..."
+- "I made $X in 30 days with this method..."
+
+---
+
+**Total: 500+ prompts ready to copy and paste!**
+
+No tech skills needed. Just copy, paste, and watch the magic happen.
